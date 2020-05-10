@@ -2,8 +2,8 @@ welcome to my github repository
 coder!!
 linux ubuntu
 c++
-
-
+php
+node js
 
 
 thank you :)
